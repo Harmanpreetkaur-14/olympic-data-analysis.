@@ -1,4 +1,4 @@
-##Olympics Data Analysis
+## Olympics Data Analysis
 
 This repository holds a Jupyter Notebook committed to breaking down historical Olympic Games data. The project delves into athlete involvement, medal distribution, gender disparity, and country performance through data scrubbing, visualizations, and statistical observations.
 
